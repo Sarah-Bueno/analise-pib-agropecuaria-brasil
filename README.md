@@ -6,7 +6,7 @@ Projeto de análise exploratória de dados desenvolvido a partir das Contas Naci
 
 Analisar a evolução trimestral da participação da Agropecuária no PIB brasileiro no período de 2015 a 2025.
 
-![analise.pib.temporal.png](analise.pib.temporal.png).
+![analise.pib.temporal.png](analise.pib.temporal.png)
 
 ## Fonte dos dados
 
