@@ -6,6 +6,8 @@ Projeto de análise exploratória de dados desenvolvido a partir das Contas Naci
 
 Analisar a evolução trimestral da participação da Agropecuária no PIB brasileiro no período de 2015 a 2025.
 
+![Analise](analise_pib_brasileiro.temporal.png).
+
 ## Fonte dos dados
 
 Os dados foram obtidos no Sistema IBGE de Recuperação Automática (SIDRA), por meio da Tabela 1846 das Contas Nacionais Trimestrais.
